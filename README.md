@@ -1,4 +1,4 @@
 # DataAnalysis
-Analysis of the data 
+Analysis of the stock 
 <br>
 Author - Mohit Yadav 
